@@ -10,5 +10,10 @@
 	.menu > .menu-text a {
 		display: inline;
 		padding: 0;
+		font-weight: normal;
+	}
+
+	.active-link {
+		font-weight: bold;
 	}
 }
